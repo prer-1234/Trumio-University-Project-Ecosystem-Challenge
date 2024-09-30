@@ -1,2 +1,2 @@
-# Trumio-University-Project-Ecosystem-Challenge
+# Trumio-University-Project-Ecosystem-Challenge ([Product Video](https://drive.google.com/file/d/1dckynTJmzglUuh_TFIGJr4cTTJl2EHQQ/view?usp=drive_link))
 Led a multidisciplinary team to develop TruConnect, an innovative product based on insights from a survey of 100+ participants. Developed tailored GTM strategies, designed a comprehensive business model, and conducted a three-year financial forecast for a successful market launch.
